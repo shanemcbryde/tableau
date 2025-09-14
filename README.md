@@ -8,7 +8,7 @@ This dashboard integrates two datasets:
   In-house customer data including demographics, subscription services, usage, and churn status.
 
 - **FCC Consumer Complaints Dataset**  
-  Publicly available data compiled by the FCC, detailing consumer complaints by category and geography.
+  Publicly available data compiled by the FCC, detailing telecommunications consumer complaints by category and geography.
 
 ---
 
