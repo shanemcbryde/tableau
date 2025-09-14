@@ -7,7 +7,7 @@
 ---
 
 ## 🎯 Project Overview & Objectives
-This project provides an in-depth analysis of telecommunications customer churn. The primary goal is to identify the specific factors driving customer churn and propose data-backed strategies to increase customer retention. A central theme explored throughout the dashboard is whether aggressive promotion of streaming and add-on services, especially to new or monthly-contract customers, may be inadvertently increasing churn. The analysis reveals a key insight: higher short-term revenue may be coming at the cost of long-term customer relationships, as churned customers consistently have higher monthly charges and shorter contract durations.
+This project provides an in-depth analysis of telecommunications customer churn. The primary goal is to identify the specific factors driving customer churn and propose data-backed strategies to increase customer retention. A central theme explored throughout the dashboard is whether aggressive promotion of streaming and add-on services, especially to new or monthly-contract customers, may be inadvertently increasing churn. The analysis reveals the key insight that higher short-term revenue may be coming at the cost of long-term customer relationships, as churned customers consistently have higher monthly charges and shorter contract durations.
 
 ---
 
