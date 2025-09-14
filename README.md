@@ -38,7 +38,7 @@ The Tableau dashboards are designed to provide a comprehensive, interactive view
 
 ## 📈 Key Findings & Insights
 
-The analysis reveals a strong correlation between customer churn and financial factors, suggesting that a portion of the customer base is over-extended and ultimately defaults on their service. Key insights include:
+The analysis reveals a strong correlation between customer churn and financial factors, suggesting that a portion of the customer base may be over-extended, leading them to discontinue their service. Key insights include:
 
 - **Churned customers pay more**  
   On average, churned customers pay 22% more than retained customers and dedicate a 30% higher portion of their income to their service. This trend is consistent across all contract durations and service types.
