@@ -61,9 +61,9 @@ Based on the analysis, the following strategies are proposed to reduce churn and
 
 1. **Re-evaluate sales strategies for add-ons and streaming services.** Avoid aggressively marketing these services to new customers, particularly those on a monthly contract, as this combination is highly correlated with increased churn.
 
-3. **Incentivize transitions to longer-term contracts.** Offer promotions, such as free trials for streaming services or add-ons, to encourage monthly customers to transition to more stable one-year or two-year contracts.
+2. **Incentivize transitions to longer-term contracts.** Offer promotions, such as free trials for streaming services or add-ons, to encourage monthly customers to transition to more stable one-year or two-year contracts.
 
-5. **Investigate and address billing issues.** Prioritize resolving billing-related complaints to mitigate their strong negative correlation with customer churn.
+3. **Investigate and address billing issues.** Prioritize resolving billing-related complaints to mitigate their strong negative correlation with customer churn.
 
 ---
 
