@@ -28,17 +28,17 @@ The Tableau dashboards are designed to provide a comprehensive, interactive view
 - **Churn Rates Dashboard**  
   A summary of core metrics (counts, percentages, and usage) for churned vs. retained customers. It highlights the significant payment disparity between the two groups.
 
-- **Add-Ons and Streaming Services Dashboards**  
-  These dashboards provide a detailed look at customer adoption of add-ons and streaming services, differentiated by contract type. The primary metric is the percent difference in churned vs. retained customer distribution for each service.
-
 - **Contract Duration Dashboard**  
   This dashboard compares churned and retained customers across different contract types. It reveals that longer-term contracts are strongly associated with higher retention rates and lower churn, emphasizing the stabilizing effect of extended commitments.
+
+- **Add-Ons and Streaming Services Dashboards**  
+  These dashboards provide a detailed look at customer adoption of add-ons and streaming services, differentiated by contract type. The primary metric is the percent difference in churned vs. retained customer distribution for each service.
 
 - **Customer Demographics Dashboard**  
   This dashboard explores the churned/retained differences across various demographic categories, allowing for the identification of specific customer segments with high churn risk.
 
 - **FCC Complaints Rate Dashboard**  
-  This dashboard provides a summary of FCC complaint data. The included Complaint vs. Churn Percent graph allows for state-level comparison of the most common complaint type and its relationship with customer churn rates.
+  This dashboard provides a summary of FCC complaint data. The included Complaint vs. Churn Percent graph allows for state-level comparison of the most common complaint type and its relationship to customer churn rates.
 
 ---
 
@@ -68,5 +68,3 @@ Based on the analysis, the following strategies are proposed to reduce churn and
 ## 🧠 Closing Thoughts
 
 This dashboard was designed to support strategic decision-making around customer retention. It combines financial, behavioral, and complaint data to surface actionable insights.
-
-Thanks for exploring!
