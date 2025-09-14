@@ -1,19 +1,11 @@
 # 📊 Telecommunications Customer Churn Analysis (Tableau Dashboard)
 
-## 🎯 Project Objectives
-
-This analysis aims to answer two key questions:
-
-1. What specific areas are contributing to customer churn?
-2. Where will targeted efforts have the greatest impact in reducing churn?
-
-A central theme explored throughout the dashboard is whether aggressive promotion of streaming and add-on services, especially to new or monthly-contract customers, may be inadvertently increasing churn. The analysis reveals a key insight: higher short-term revenue may be coming at the cost of long-term customer relationships, as churned customers consistently have higher monthly charges and shorter contract durations.
+## 🎯 Project Overview & Objectives
+This project provides an in-depth analysis of telecommunications customer churn. The primary goal is to identify the specific factors driving customer churn and propose data-backed strategies to increase customer retention. A central theme explored throughout the dashboard is whether aggressive promotion of streaming and add-on services, especially to new or monthly-contract customers, may be inadvertently increasing churn. The analysis reveals a key insight: higher short-term revenue may be coming at the cost of long-term customer relationships, as churned customers consistently have higher monthly charges and shorter contract durations.
 
 ---
 
 ## 📁 Data Sources
-
-This dashboard integrates two datasets:
 
 - **Telecommunications Customer Churn Dataset**  
   In-house customer data including demographics, subscription services, usage, and churn status.
@@ -67,6 +59,13 @@ Based on the findings:
    - Example:  
      - 3 months free for switching to a one-year contract  
      - 6 months free for switching to a two-year contract
+
+---
+
+## 🔗 View the Dashboard
+
+Explore the full interactive dashboard here:  
+👉 [Telecommunications Churn Dashboard on Tableau Public](https://public.tableau.com/app/profile/shane.mcbryde/viz/D210-RepresentationandReporting_17107923311500/PerformanceAssessment)
 
 ---
 
