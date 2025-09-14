@@ -8,57 +8,54 @@ This project provides an in-depth analysis of telecommunications customer churn.
 ## 📁 Data Sources
 
 - **Telecommunications Customer Churn Dataset**  
-  In-house customer data including demographics, subscription services, usage, and churn status.
+  In-house customer data, including demographics, subscription services, usage, and churn status.
 
 - **FCC Consumer Complaints Dataset**  
   Publicly available data compiled by the FCC, detailing telecommunications consumer complaints by category and geography.
 
 ---
 
-## 📈 Key Dashboards & Insights
+## 🧭 Dashboard Breakdown
 
-### 🔹 Churn Rate Dashboard
+The Tableau dashboards are designed to provide a comprehensive, interactive view of the data:
 
-- Churned customers pay **22% more** on average than retained customers.
-- They also spend **30% more relative to their income**.
-- This spending disparity persists across all contract durations.
+- **Churn Rates Dashboard**  
+  A summary of core metrics (counts, percentages, and usage) for churned vs. retained customers. It highlights the significant payment disparity between the two groups.
 
-### 🔹 Contract Duration Dashboard
+- **Add-Ons and Streaming Services Dashboards**  
+  These dashboards provide a detailed look at customer adoption of add-ons and streaming services, differentiated by contract type. The primary metric is the percent difference in churned vs. retained customer distribution for each service.
 
-- Churned customers pay **21–30% more** than retained customers.
-- Retention rates increase dramatically with contract length:
-  - Monthly: retention is only **68% higher** than churn
-  - One-Year: retention is **484% higher**
-  - Two-Year: retention is **590% higher**
+- **Contract Duration Dashboard**  
+  This dashboard compares churned and retained customers across different contract types. It reveals that longer-term contracts are strongly associated with higher retention rates and lower churn, emphasizing the stabilizing effect of extended commitments.
 
-### 🔹 Streaming Services & Add-Ons
+- **Customer Demographics Dashboard**  
+  This dashboard explores the churned/retained differences across various demographic categories, allowing for the identification of specific customer segments with high churn risk.
 
-- Churned customers consistently pay more for each service.
-- Retention rates can be compared against overall benchmarks shown at the bottom of each dashboard.
-
-### 🔹 Demographics Dashboard
-
-- Segmented by demographic categories to highlight churn-prone groups.
-- Categories with **low retention–churn rate differences** may signal higher churn risk.
-
-### 🔹 FCC Complaints Rate Dashboard
-
-- **Billing** is the most frequent complaint nationally.
-- States with **above-median churn rates** also report billing as the top complaint.
-- Suggests perceived overcharging or billing errors may be driving churn.
+- **FCC Complaints Rate Dashboard**  
+  This dashboard provides a summary of FCC complaint data. The included Complaint vs. Churn Percent graph allows for state-level comparison of the most common complaint type and its relationship with customer churn rates.
 
 ---
 
+## 📈 Key Findings & Insights
+
+The analysis reveals a strong correlation between customer churn and financial factors, suggesting that a portion of the customer base is over-extended and ultimately defaults on their service. Key insights include:
+
+- **Churned customers pay more**  
+  On average, churned customers pay 22% more than retained customers and dedicate a 30% higher portion of their income to their service. This trend is consistent across all contract durations and service types.
+
+- **Contract duration matters**  
+  Customers on longer-term contracts are significantly more likely to be retained. Retention rates for one-year and two-year contracts are 484% and 590% higher than churn rates, respectively, highlighting the value of long-term commitments.
+
+- **Billing complaints correlate with churn**  
+  Analysis of the FCC complaints data reveals that billing is the most frequent complaint nationwide. Furthermore, all states with above-median churn rates also report billing as their most frequent complaint, suggesting a direct link between billing disputes and customer churn.
+  
 ## 💡 Strategic Recommendations
 
-Based on the findings:
+Based on the analysis, the following strategies are proposed to reduce churn and foster long-term customer relationships:
 
-1. **Avoid marketing streaming services and add-ons to monthly customers**, as this combination correlates strongly with higher churn.
-2. **Incentivize transitions to longer-term contracts**:
-   - Offer free trials of add-ons for customers who upgrade.
-   - Example:  
-     - 3 months free for switching to a one-year contract  
-     - 6 months free for switching to a two-year contract
+1. **Re-evaluate sales strategies for add-ons and streaming services.** Avoid aggressively marketing these services to new customers, particularly those on a monthly contract, as this combination is highly correlated with increased churn.
+2. **Incentivize transitions to longer-term contracts.** Offer promotions, such as free trials for streaming services or add-ons, to encourage monthly customers to transition to more stable one-year or two-year contracts.
+3. **Investigate and address billing issues.** Prioritize resolving billing-related complaints to mitigate their strong negative correlation with customer churn.
 
 ---
 
@@ -71,6 +68,6 @@ Explore the full interactive dashboard here:
 
 ## 🧠 Closing Thoughts
 
-This dashboard was developed for **D210 - Representation and Reporting** and is designed to support strategic decision-making around customer retention. It combines financial, behavioral, and complaint data to surface actionable insights.
+This dashboard was designed to support strategic decision-making around customer retention. It combines financial, behavioral, and complaint data to surface actionable insights.
 
 Thanks for exploring!
