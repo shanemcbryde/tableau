@@ -62,7 +62,7 @@ Based on the analysis, the following strategies are proposed to reduce churn and
 ## 🔗 View the Dashboard
 
 Explore the full interactive dashboard here:  
-👉 <a href="https://public.tableau.com/app/profile/shane.mcbryde/viz/D210-RepresentationandReporting_17107923311500/PerformanceAssessment" target="_blank">Telecommunications Churn Dashboard on Tableau Public</a>
+👉 <a href="https://public.tableau.com/app/profile/shane.mcbryde/viz/D210-RepresentationandReporting_17107923311500/PerformanceAssessment" target="_blank">![tableau-public-link](https://img.shields.io/badge/Tableau%20Public-View%20Dashboard-red.svg?logo=tableau)</a>
 
 ---
 
