@@ -1,5 +1,11 @@
 # 📊 Telecommunications Customer Churn Analysis (Tableau Dashboard)
 
+## 🔗 View the Dashboard
+
+Explore the full interactive dashboard here: <a href="https://public.tableau.com/app/profile/shane.mcbryde/viz/D210-RepresentationandReporting_17107923311500/PerformanceAssessment" target="_blank">![tableau-public-link](https://img.shields.io/badge/Tableau%20Public-View%20Dashboard-red.svg?logo=tableau)</a>
+
+---
+
 ## 🎯 Project Overview & Objectives
 This project provides an in-depth analysis of telecommunications customer churn. The primary goal is to identify the specific factors driving customer churn and propose data-backed strategies to increase customer retention. A central theme explored throughout the dashboard is whether aggressive promotion of streaming and add-on services, especially to new or monthly-contract customers, may be inadvertently increasing churn. The analysis reveals a key insight: higher short-term revenue may be coming at the cost of long-term customer relationships, as churned customers consistently have higher monthly charges and shorter contract durations.
 
@@ -56,13 +62,6 @@ Based on the analysis, the following strategies are proposed to reduce churn and
 1. **Re-evaluate sales strategies for add-ons and streaming services.** Avoid aggressively marketing these services to new customers, particularly those on a monthly contract, as this combination is highly correlated with increased churn.
 2. **Incentivize transitions to longer-term contracts.** Offer promotions, such as free trials for streaming services or add-ons, to encourage monthly customers to transition to more stable one-year or two-year contracts.
 3. **Investigate and address billing issues.** Prioritize resolving billing-related complaints to mitigate their strong negative correlation with customer churn.
-
----
-
-## 🔗 View the Dashboard
-
-Explore the full interactive dashboard here:  
-👉 <a href="https://public.tableau.com/app/profile/shane.mcbryde/viz/D210-RepresentationandReporting_17107923311500/PerformanceAssessment" target="_blank">![tableau-public-link](https://img.shields.io/badge/Tableau%20Public-View%20Dashboard-red.svg?logo=tableau)</a>
 
 ---
 
