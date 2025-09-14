@@ -1,5 +1,16 @@
 # 📊 Telecommunications Customer Churn Analysis (Tableau Dashboard)
 
+## 🎯 Project Objectives
+
+This analysis aims to answer two key questions:
+
+1. What specific areas are contributing to customer churn?
+2. Where will targeted efforts have the greatest impact in reducing churn?
+
+A central theme explored throughout the dashboard is whether aggressive promotion of streaming and add-on services, especially to new or monthly-contract customers, may be inadvertently increasing churn. The analysis reveals a key insight: higher short-term revenue may be coming at the cost of long-term customer relationships, as churned customers consistently have higher monthly charges and shorter contract durations.
+
+---
+
 ## 📁 Data Sources
 
 This dashboard integrates two datasets:
@@ -9,17 +20,6 @@ This dashboard integrates two datasets:
 
 - **FCC Consumer Complaints Dataset**  
   Publicly available data compiled by the FCC, detailing telecommunications consumer complaints by category and geography.
-
----
-
-## 🎯 Project Objectives
-
-This analysis aims to answer two key questions:
-
-1. What specific areas are contributing to customer churn?
-2. Where will targeted efforts have the greatest impact in reducing churn?
-
-A central theme explored throughout the dashboard is whether aggressive promotion of streaming and add-on services — especially to new or monthly-contract customers — may be inadvertently increasing churn. The data suggests that short-term revenue gains may be coming at the expense of long-term customer relationships.
 
 ---
 
