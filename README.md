@@ -67,6 +67,12 @@ Based on the analysis, the following strategies are proposed to reduce churn and
 
 ---
 
+## 🧰 Tools Used
+
+[![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=flat)](https://www.tableau.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat)](https://python.org) [![Pandas](https://img.shields.io/badge/Pandas-Data_Handling-150458?style=flat)](https://pandas.pydata.org) [![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat)](https://numpy.org)
+
+---
+
 ## 🧠 Closing Thoughts
 
 This dashboard was designed to support strategic decision-making around customer retention. It combines financial, behavioral, and complaint data to surface actionable insights.
