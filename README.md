@@ -2,7 +2,7 @@
 
 ## 🔗 View the Dashboard
 
-<a href="https://public.tableau.com/app/profile/shane.mcbryde/viz/D210-RepresentationandReporting_17107923311500/PerformanceAssessment" target="_blank">![tableau-public-link](https://img.shields.io/badge/Tableau%20Public-View%20Dashboard-red.svg?logo=tableau)</a> *(external link — right-click to open in new tab)*
+<a href="https://public.tableau.com/app/profile/shane.mcbryde/viz/D210-RepresentationandReporting_17107923311500/PerformanceAssessment" target="_blank">![tableau-public-link](https://img.shields.io/badge/Tableau%20Public-View%20Dashboard-red.svg?logo=tableau)</a>  *(external link — right-click to open in new tab)*
 
 ---
 
