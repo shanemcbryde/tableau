@@ -55,6 +55,8 @@ The analysis reveals a strong correlation between customer churn and financial f
 - **Billing complaints correlate with churn**  
   Analysis of the FCC complaints data reveals that billing is the most frequent complaint nationwide. Furthermore, all states with above-median churn rates also report billing as their most frequent complaint, suggesting a direct link between billing disputes and customer churn.
   
+---
+
 ## 💡 Strategic Recommendations
 
 Based on the analysis, the following strategies are proposed to reduce churn and foster long-term customer relationships:
