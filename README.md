@@ -4,12 +4,8 @@
 
 <a href="https://public.tableau.com/app/profile/shane.mcbryde/viz/D210-RepresentationandReporting_17107923311500/PerformanceAssessment">![tableau-public-link](https://img.shields.io/badge/Tableau%20Public-View%20Dashboard-red.svg?logo=tableau)</a>&nbsp;&nbsp;*(external link — right-click to open in new tab)*
 
----
-
 ## 🎯 Project Overview & Objectives
 This project provides an in-depth analysis of telecommunications customer churn. The primary goal is to identify the specific factors driving customer churn and propose data-backed strategies to increase customer retention. A central theme explored throughout the dashboard is whether aggressive promotion of streaming and add-on services, especially to new or monthly-contract customers, may be inadvertently increasing churn. The analysis reveals the key insight that higher short-term revenue may be coming at the cost of long-term customer relationships, as churned customers consistently have higher monthly charges and shorter contract durations.
-
----
 
 ## 📁 Data Sources
 
@@ -18,8 +14,6 @@ This project provides an in-depth analysis of telecommunications customer churn.
 
 - **FCC Consumer Complaints Dataset**  
   Publicly available data compiled by the FCC, detailing telecommunications consumer complaints by category and geography.
-
----
 
 ## 🧭 Dashboard Breakdown
 
@@ -40,8 +34,6 @@ The Tableau dashboards are designed to provide a comprehensive, interactive view
 - **FCC Complaints Rate Dashboard**  
   This dashboard provides a summary of FCC complaint data. The included Complaint vs. Churn Percent graph allows for state-level comparison of the most common complaint type and its relationship to customer churn rates.
 
----
-
 ## 📈 Key Findings & Insights
 
 The analysis reveals a strong correlation between customer churn and financial factors, suggesting that a portion of the customer base may be over-extended, leading them to discontinue their service. Key insights include:
@@ -54,8 +46,6 @@ The analysis reveals a strong correlation between customer churn and financial f
 
 - **Billing complaints correlate with churn**  
   Analysis of the FCC complaints data reveals that billing is the most frequent complaint nationwide. Furthermore, all states with above-median churn rates also report billing as their most frequent complaint, suggesting a direct link between billing disputes and customer churn.
-  
----
 
 ## 💡 Strategic Recommendations
 
@@ -67,13 +57,9 @@ Based on the analysis, the following strategies are proposed to reduce churn and
 
 3. **Investigate and address billing issues.** Prioritize resolving billing-related complaints to mitigate their strong negative correlation with customer churn rates.
 
----
-
-## 🧰 Tools Used
+## 🛠️ Tools Used
 
 [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=flat)](https://www.tableau.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat)](https://python.org) [![Pandas](https://img.shields.io/badge/Pandas-Data_Handling-150458?style=flat)](https://pandas.pydata.org) [![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat)](https://numpy.org)
-
----
 
 ## 🧠 Closing Thoughts
 
