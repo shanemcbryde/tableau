@@ -59,7 +59,10 @@ Based on the analysis, the following strategies are proposed to reduce churn and
 
 ## 🛠️ Tools Used
 
-[![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=flat)](https://www.tableau.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat)](https://python.org) [![Pandas](https://img.shields.io/badge/Pandas-Data_Handling-150458?style=flat)](https://pandas.pydata.org) [![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat)](https://numpy.org)
+[![Tableau](https://img.shields.io/static/v1?label=Tableau&message=Dashboard&labelColor=E97627&color=gray)](https://www.tableau.com)
+[![Python](https://img.shields.io/static/v1?label=Python&message=Programming_Language&labelColor=3776AB&color=gray)](https://python.org)
+[![Pandas](https://img.shields.io/static/v1?label=Pandas&message=Data_Handling&labelColor=150458&color=gray)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/static/v1?label=NumPy&message=Numerical_Computing&labelColor=013243&color=gray)](https://numpy.org)
 
 ## 🧠 Closing Thoughts
 
